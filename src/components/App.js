@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import Home from './Home';
 import About from './About';
 import SynXis from './pages/SynXis';
@@ -14,18 +14,18 @@ class App extends Component {
     return (
       
     <Router>
-      <div className="App">
+      <div className="container">
       <div className="navigation">
           {/* <img src={logo} className="logo-image" alt="Logo Image" /> */}
           <div className="navigation-sub">               
             {/* Set up the Links */}
-            <Link to="/homepage" className="item">Home</Link>
+            <Link to="/" className="item">Home</Link>
             <Link to="/about" className="item">About</Link>
           </div>
       </div>
         
         {/* Set up the Router */}
-        <Route exact path="/homepage" component={Home} />
+        <Route exact path="/" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/SynXis" component={SynXis} />
       </div>

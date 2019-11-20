@@ -1,3 +1,8 @@
+html, body {
+  background-color:#171717;
+  color:white;
+}
+
 h1{
   font-family:'Colfax Bold';
   font-size:54px;
@@ -18,15 +23,18 @@ img{
 }
 
 .navigation{
-  float:right;
-  text-align: left;
-  width:100%;
-  /* background: #FFFFFF;
-  box-shadow: 0 2px 17px 0 rgba(0,0,0,0.20); */
-  padding:15px;
+  display:inline-block;
+  padding-top: 36px;
 }
-
 
 .item{
   margin-right:15px;
+}
+
+.container{
+  padding-right:0px;
+  padding-left:0px;
+  padding-top:36px;
+
+
 }
