@@ -1,0 +1,32 @@
+h1{
+  font-family:'Colfax Bold';
+  font-size:54px;
+}
+h3{
+  font-family:'Colfax Light';
+  font-size:36px;
+}
+
+img{
+  width:100%;
+}
+
+.header{
+  margin-bottom:36px;
+  padding-top:36px;
+
+}
+
+.navigation{
+  float:right;
+  text-align: left;
+  width:100%;
+  /* background: #FFFFFF;
+  box-shadow: 0 2px 17px 0 rgba(0,0,0,0.20); */
+  padding:15px;
+}
+
+
+.item{
+  margin-right:15px;
+}
