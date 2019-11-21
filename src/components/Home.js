@@ -11,13 +11,13 @@ class Home extends Component {
     return (
         <div class="container">
           <div class="row">
-            <div class="col-sm">
+            <div class="col-12">
               <h1>Dylan Vanelli.</h1>
               <h3>A UX Designer at Capital One passionate about uniting creativity and cross-disciplinary expertise to develop novel solutions to solve complex problems.</h3>
             </div>
             </div>
             <div class="row">
-            <div class="col-sm">
+            <div class="col-xl-8">
               <Thumbnail
                 link="/SynXis"
                 image={Cover}
@@ -25,7 +25,7 @@ class Home extends Component {
                 category="Mobile App"
               />
               </div>
-              <div class="col-sm">
+              <div class="col-xl-4 ">
 
               <Thumbnail
                 link="/project2"
@@ -34,7 +34,25 @@ class Home extends Component {
                 category="Website"
               />
               </div>
-              <div class="col-sm">
+              <div class="col-lg-4">
+
+              <Thumbnail
+                link="/project3"
+                image={Cover}
+                title="Photoshop Redesign"
+                category="Desktop App"
+              />
+              </div>
+              <div class="col-lg-4">
+
+              <Thumbnail
+                link="/project3"
+                image={Cover}
+                title="Photoshop Redesign"
+                category="Desktop App"
+              />
+              </div>
+              <div class="col-lg-4">
 
               <Thumbnail
                 link="/project3"

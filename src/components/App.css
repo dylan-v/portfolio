@@ -1,25 +1,32 @@
-html, body {
+/* General */
+body {
   background-color:#171717;
   color:white;
+  margin:48px;
+  margin-left:100px;
+  margin-right:100px;
+}
+@media only screen and (max-width: 990px) {
+  body {
+    margin-left:50px;
+    margin-right:50px;
+  }
 }
 
 h1{
   font-family:'Colfax Bold';
   font-size:54px;
 }
+
 h3{
   font-family:'Colfax Light';
   font-size:36px;
 }
 
-img{
-  width:100%;
-}
-
+/* App.js */
 .header{
   margin-bottom:36px;
   padding-top:36px;
-
 }
 
 .navigation{
@@ -31,10 +38,56 @@ img{
   margin-right:15px;
 }
 
+/* Bootstrap */
 .container{
   padding-right:0px;
   padding-left:0px;
   padding-top:36px;
+  max-width:1000px;
+}
 
+/* Thumbnail.js */
+.project{
+  height:300px;
+  width:100%;  
+  border-radius:15px;
+  background-color:blue;
+  margin-top:48px;
+  margin-bottom:48px;
+  transition: all 0.3s;
+}
+.project:hover{
+  cursor:pointer;
+  position: relative; 
+  transform: translateY(-10px);
+  transition: all 0.3s;
+
+
+}
+a{
+  color:#dadada;
+  transition: all 0.1s;
+  text-decoration: none;
+
+
+}
+a:hover{
+  color:white;
+  transition: all 0.1s;
+  text-decoration: none;
+}
+.project-title{
+  font-family:'Colfax Bold';
+  font-size: 24px;
+  padding-left:36px;
+  width: 100%; 
+}
+.project-category{
+  font-family:'Colfax Light';
+  font-size: 24px;
+  padding-left:36px;
+}
+.project-img{
+  height:66%;
 
 }
