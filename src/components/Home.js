@@ -12,8 +12,7 @@ class Home extends Component {
         <div class="container">
           <div class="row">
             <div class="col-12">
-              <h1>Dylan Vanelli.</h1>
-              <h3>A UX Designer at Capital One passionate about uniting creativity and cross-disciplinary expertise to develop novel solutions to solve complex problems.</h3>
+              <h1>I’m Dylan, a Designer who makes products and services human-centered.</h1>
             </div>
             </div>
             <div class="row">

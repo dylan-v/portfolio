@@ -1,11 +1,11 @@
 /* General */
 body {
-  background-color:#171717;
+  background:#171717;
   color:white;
-  margin:48px;
-  margin-left:100px;
-  margin-right:100px;
+  /* margin-left:100px;
+  margin-right:100px; */
 }
+
 @media only screen and (max-width: 990px) {
   body {
     margin-left:50px;
@@ -15,12 +15,18 @@ body {
 
 h1{
   font-family:'Colfax Bold';
-  font-size:54px;
+  font-size:52px;
 }
 
 h3{
   font-family:'Colfax Light';
   font-size:36px;
+}
+
+.bg-shapes{
+  /* background-image: url("/assets/images/Background.svg"); */
+  background:red;
+  width:100%;
 }
 
 /* App.js */
@@ -45,31 +51,51 @@ h3{
   padding-top:36px;
   max-width:1000px;
 }
+.screen{
+  width:100%;
+  background: url("/Background.png") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
 
 /* Thumbnail.js */
 .project{
   height:300px;
   width:100%;  
   border-radius:15px;
-  background-color:blue;
   margin-top:48px;
   margin-bottom:48px;
   transition: all 0.3s;
+  background-color:blue;
+
+}
+.card-blue{
+  background-color:blue;
+
+}
+.card-yellow{
+  background: #FDC830;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+}
+.card-green{
+  background: #649173;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #DBD5A4, #649173);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #DBD5A4, #649173); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .project:hover{
   cursor:pointer;
   position: relative; 
   transform: translateY(-10px);
   transition: all 0.3s;
-
-
 }
 a{
-  color:#dadada;
+  color:#a0a0a0;
   transition: all 0.1s;
   text-decoration: none;
-
-
 }
 a:hover{
   color:white;

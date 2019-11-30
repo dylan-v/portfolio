@@ -7,7 +7,7 @@ import './App.css'
 class SynXis extends Component {
   render() {
     return (
-      <div>
+      <div class="container">
           <div class="row">
             <div class="col-sm header">
               <h1>About Me</h1>
