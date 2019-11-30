@@ -12,7 +12,7 @@ class Home extends Component {
         <div class="container">
           <div class="row">
             <div class="col-12">
-              <h1>I’m Dylan, a Designer who makes products and services human-centered.</h1>
+              <h1>I’m Dylan, a designer who makes products and services human-centered.</h1>
             </div>
             </div>
             <div class="row">

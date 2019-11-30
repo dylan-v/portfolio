@@ -14,7 +14,8 @@ class App extends Component {
     return (
       
     <Router>
-      <div className="screen">
+        <div className="square"></div>
+        <div className="circle"></div>
         <div className="container">
         <div className="navigation">
           {/* <img src={logo} className="logo-image" alt="Logo Image" /> */}
@@ -23,7 +24,6 @@ class App extends Component {
             <Link to="/" className="item">Home</Link>
             <Link to="/about" className="item">About</Link>
           </div>
-        </div>
         </div>
         
         {/* Set up the Router */}
