@@ -27,7 +27,7 @@ class Home extends Component {
               <div class="col-xl-4 ">
 
               <Thumbnail
-                link="/project2"
+                link="/Project2"
                 image={Cover}
                 title="Airbnb Experiences"
                 category="Website"
@@ -42,7 +42,7 @@ class Home extends Component {
                 category="Desktop App"
               />
               </div>
-              <div class="col-lg-4">
+              <div class="col-lg-8">
 
               <Thumbnail
                 link="/project3"
@@ -53,12 +53,12 @@ class Home extends Component {
               </div>
               <div class="col-lg-4">
 
-              <Thumbnail
+              {/* <Thumbnail
                 link="/project3"
                 image={Cover}
                 title="Photoshop Redesign"
                 category="Desktop App"
-              />
+              /> */}
               </div>
           </div>
         </div>

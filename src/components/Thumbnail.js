@@ -5,7 +5,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Thumbnail(props) {
   return (
-    <div className="shell">
       <Link to={props.link}>
       <div className="project">
         <div className="project-img">
@@ -16,7 +15,6 @@ function Thumbnail(props) {
         </div>
         </div>
             </Link>
-    </div>
   )
 }
 

@@ -8,6 +8,7 @@ body {
   font-family: 'Colfax Regular';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  zoom: 90%;
 }
 
 code {
