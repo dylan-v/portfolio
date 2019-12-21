@@ -92,3 +92,27 @@ font-style: normal;
 font-weight: normal;
 src: local('Colfax Black Italic'), url('Colfax-BlackItalic.woff') format('woff');
 }
+
+
+/* Proxima */
+
+@font-face {
+    font-family: 'Proxima Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Proxima Regular'), url('ProximaNova-Regular.otf') format('opentype');
+    }
+    
+@font-face {
+    font-family: 'Proxima Bold';
+    font-style: bold;
+    font-weight: bold;
+    src: local('Proxima Bold'), url('Proxima Nova Bold.otf') format('opentype');
+    }
+
+    @font-face {
+        font-family: 'Proxima Thin';
+        font-style: thin;
+        font-weight: thin;
+        src: local('Proxima Thin'), url('Proxima Nova Thin.otf') format('opentype');
+}

@@ -18,17 +18,16 @@ class App extends Component {
     return (
       
     <Router>
-        <div className="square"></div>
-        <div className="circle"></div>
-        <div className="container">
-        <div className="navigation">
-          {/* <img src={logo} className="logo-image" alt="Logo Image" /> */}
+        {/* <div className="square"></div>
+        <div className="circle"></div> */}
+        <div className="content">
+
+        {/* <div className="navigation">
           <div className="navigation-sub">               
-            {/* Set up the Links */}
             <Link to="/" className="item">Home</Link>
             <Link to="/about" className="item">About</Link>
           </div>
-        </div>
+        </div> */}
         
         {/* Set up the Router */}
         <Route exact path="/" component={Home} />
