@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abc4a422e68e89bc0d29bde884f97350",
+    "revision": "2adfc6939cd9099e97b361bc05858427",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "392202736d46bd010825",
+    "revision": "793e927a9bd1365662c7",
     "url": "/portfolio/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "2f233343749b96d4376e",
-    "url": "/portfolio/static/css/main.834c7f62.chunk.css"
+    "revision": "7d50c83eb9059147ed14",
+    "url": "/portfolio/static/css/main.7ebf59bf.chunk.css"
   },
   {
-    "revision": "392202736d46bd010825",
-    "url": "/portfolio/static/js/2.3231093a.chunk.js"
+    "revision": "793e927a9bd1365662c7",
+    "url": "/portfolio/static/js/2.d96875af.chunk.js"
   },
   {
-    "revision": "2f233343749b96d4376e",
-    "url": "/portfolio/static/js/main.281ba11d.chunk.js"
+    "revision": "7d50c83eb9059147ed14",
+    "url": "/portfolio/static/js/main.15c26a93.chunk.js"
   },
   {
     "revision": "6b26cb3bc1b9147ba086",
@@ -72,15 +72,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Colfax-ThinItalic.7249e992.woff"
   },
   {
+    "revision": "dc4ed9dfc4bcf3c9c612dc49c091a443",
+    "url": "/portfolio/static/media/Home.dc4ed9df.svg"
+  },
+  {
+    "revision": "62d4d7d369292a9bf23762465ec6d704",
+    "url": "/portfolio/static/media/Proxima Nova Bold.62d4d7d3.otf"
+  },
+  {
+    "revision": "8f0bc01ce5e5becef482d277cb72b728",
+    "url": "/portfolio/static/media/Proxima Nova Thin.8f0bc01c.otf"
+  },
+  {
+    "revision": "410504d49238e955ba7dc23a7f963021",
+    "url": "/portfolio/static/media/ProximaNova-Regular.410504d4.otf"
+  },
+  {
     "revision": "8d3a69cf988cf32dffd8417e5d508a73",
     "url": "/portfolio/static/media/Rectangle.8d3a69cf.jpg"
   },
   {
-    "revision": "bc117ecee9336c2795d63b55dac64654",
-    "url": "/portfolio/static/media/background.bc117ece.png"
-  },
-  {
-    "revision": "3c3eb031244c309a6bee92b8b68271ab",
-    "url": "/portfolio/static/media/profile.3c3eb031.jpeg"
+    "revision": "d1980e7dc8c287010db160cf26f77c1c",
+    "url": "/portfolio/static/media/dd-logo.d1980e7d.svg"
   }
 ]);
