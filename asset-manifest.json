@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1aa3a913.chunk.css",
-    "main.js": "/portfolio/static/js/main.5ab9b075.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5ab9b075.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.51411218.chunk.css",
+    "main.js": "/portfolio/static/js/main.59637926.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.59637926.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.86a05020.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.86a05020.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/portfolio/static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.17ca2e5a.chunk.js": "/portfolio/static/js/2.17ca2e5a.chunk.js",
-    "static/js/2.17ca2e5a.chunk.js.map": "/portfolio/static/js/2.17ca2e5a.chunk.js.map",
+    "static/js/2.f4a0a7fc.chunk.js": "/portfolio/static/js/2.f4a0a7fc.chunk.js",
+    "static/js/2.f4a0a7fc.chunk.js.map": "/portfolio/static/js/2.f4a0a7fc.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.06e1d054b7be4e0aa3f8362cf068bef4.js": "/portfolio/precache-manifest.06e1d054b7be4e0aa3f8362cf068bef4.js",
+    "precache-manifest.f9d908f02a5ab7d50270eebcca373d53.js": "/portfolio/precache-manifest.f9d908f02a5ab7d50270eebcca373d53.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/portfolio/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.1aa3a913.chunk.css.map": "/portfolio/static/css/main.1aa3a913.chunk.css.map",
-    "static/media/index.css": "/portfolio/static/media/ProximaNova-Regular.410504d4.otf",
+    "static/css/main.51411218.chunk.css.map": "/portfolio/static/css/main.51411218.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/TiemposHeadline-SemiboldItalic.3f017df0.woff",
     "static/media/Home.svg": "/portfolio/static/media/Home.dc4ed9df.svg",
     "static/media/Rectangle.jpg": "/portfolio/static/media/Rectangle.8d3a69cf.jpg",
-    "static/media/dd-logo.svg": "/portfolio/static/media/dd-logo.d1980e7d.svg"
+    "static/media/dd-background.svg": "/portfolio/static/media/dd-background.452f3013.svg",
+    "static/media/dd-logo.svg": "/portfolio/static/media/dd-logo.344019f0.svg",
+    "static/media/profile.jpeg": "/portfolio/static/media/profile.bb7eebc4.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.86a05020.js",
     "static/css/2.b0bb7f2c.chunk.css",
-    "static/js/2.17ca2e5a.chunk.js",
-    "static/css/main.1aa3a913.chunk.css",
-    "static/js/main.5ab9b075.chunk.js"
+    "static/js/2.f4a0a7fc.chunk.js",
+    "static/css/main.51411218.chunk.css",
+    "static/js/main.59637926.chunk.js"
   ]
 }

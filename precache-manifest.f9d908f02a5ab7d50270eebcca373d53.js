@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ce707442c50540adeab5835344ae3b8",
+    "revision": "34d067a8431530eb64defff2b27a6ed2",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "ab70ec2883e312ea337e",
+    "revision": "9a19f331fedbfeb621c7",
     "url": "/portfolio/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "6b20791ffecee151f0fa",
-    "url": "/portfolio/static/css/main.1aa3a913.chunk.css"
+    "revision": "54e80e3abe0c3877bef4",
+    "url": "/portfolio/static/css/main.51411218.chunk.css"
   },
   {
-    "revision": "ab70ec2883e312ea337e",
-    "url": "/portfolio/static/js/2.17ca2e5a.chunk.js"
+    "revision": "9a19f331fedbfeb621c7",
+    "url": "/portfolio/static/js/2.f4a0a7fc.chunk.js"
   },
   {
-    "revision": "6b20791ffecee151f0fa",
-    "url": "/portfolio/static/js/main.5ab9b075.chunk.js"
+    "revision": "54e80e3abe0c3877bef4",
+    "url": "/portfolio/static/js/main.59637926.chunk.js"
   },
   {
     "revision": "6b26cb3bc1b9147ba086",
@@ -92,7 +92,63 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Rectangle.8d3a69cf.jpg"
   },
   {
-    "revision": "d1980e7dc8c287010db160cf26f77c1c",
-    "url": "/portfolio/static/media/dd-logo.d1980e7d.svg"
+    "revision": "0b423755413e7e5650855495e7ccd9f1",
+    "url": "/portfolio/static/media/TiemposHeadline-Black.0b423755.woff"
+  },
+  {
+    "revision": "9f29b4a5c431aa63882a985235c4078c",
+    "url": "/portfolio/static/media/TiemposHeadline-BlackItalic.9f29b4a5.woff"
+  },
+  {
+    "revision": "49319eb1bf0bd9e3a4589b32c0907125",
+    "url": "/portfolio/static/media/TiemposHeadline-Bold.49319eb1.woff"
+  },
+  {
+    "revision": "c7815b36aa9875841fb08114f8093a3a",
+    "url": "/portfolio/static/media/TiemposHeadline-BoldItalic.c7815b36.woff"
+  },
+  {
+    "revision": "8a5a7eeca84610d13820adaf51751fcd",
+    "url": "/portfolio/static/media/TiemposHeadline-Light.8a5a7eec.woff"
+  },
+  {
+    "revision": "e761dd83b45ea38f1f5dadd480053ed1",
+    "url": "/portfolio/static/media/TiemposHeadline-LightItalic.e761dd83.woff"
+  },
+  {
+    "revision": "91133b24caa426fcb350912787574c15",
+    "url": "/portfolio/static/media/TiemposHeadline-Medium.91133b24.woff"
+  },
+  {
+    "revision": "c650c2d989e2a0a3a69f699ad423ab8c",
+    "url": "/portfolio/static/media/TiemposHeadline-MediumItalic.c650c2d9.woff"
+  },
+  {
+    "revision": "459a6789f2d2a48e6150fc2e4d4b0549",
+    "url": "/portfolio/static/media/TiemposHeadline-Regular.459a6789.woff"
+  },
+  {
+    "revision": "7d46609767143c4e04801a17d9a9436d",
+    "url": "/portfolio/static/media/TiemposHeadline-RegularItalic.7d466097.woff"
+  },
+  {
+    "revision": "8fe6546e119c316bb270d803b7731573",
+    "url": "/portfolio/static/media/TiemposHeadline-Semibold.8fe6546e.woff"
+  },
+  {
+    "revision": "3f017df059d23a79493c1f1b031b8ba0",
+    "url": "/portfolio/static/media/TiemposHeadline-SemiboldItalic.3f017df0.woff"
+  },
+  {
+    "revision": "452f3013ee488d3308c4001e9c9b9262",
+    "url": "/portfolio/static/media/dd-background.452f3013.svg"
+  },
+  {
+    "revision": "344019f03b6da19b38708ab604d7bbd5",
+    "url": "/portfolio/static/media/dd-logo.344019f0.svg"
+  },
+  {
+    "revision": "bb7eebc4a99a1e41aa8e5f86be031bb4",
+    "url": "/portfolio/static/media/profile.bb7eebc4.jpeg"
   }
 ]);
